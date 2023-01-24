@@ -6,9 +6,12 @@ feature-img: "assets/img/pexels/travel.jpeg"
 tags: [Page]
 ---
 
-Type on Strap is based on Type Theme, a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License.
+> 나와 우리의 더 나은 미래☀️를 꿈꿉니다.
 
-Head over to the [theme's documentation](https://github.io/sylhare/Type-on-Strap) for much more information about Type on Strap or to install this theme on your own Jekyll site.
+[저를 더 알고싶다면?🥺](https://www.notion.so/mima-o/JIWOOPOLIO-57115a663d1f43ddab213eb448b96946)
 
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
- 
+## 블로그 사용설명서
+
+- 제목에 이모지😄가 박혀있으면? : 인사이트가 담긴 글
+- "📚" : 자료조사
+- 포스트 수정은 현재진행형입니다! 잘못된 내용이 있다면 언제든 피드백 해주세요😙
